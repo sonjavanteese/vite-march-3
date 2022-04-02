@@ -1,0 +1,41 @@
+.aiko {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.aiko-aiko_b01 {
+    width: 400px;
+    height: 400px;
+    background-position: -5px -5px;
+}
+
+.aiko-aiko_b02 {
+    width: 400px;
+    height: 400px;
+    background-position: -415px -5px;
+}
+
+.aiko-aiko_b03 {
+    width: 400px;
+    height: 400px;
+    background-position: -825px -5px;
+}
+
+.aiko-aiko_b04 {
+    width: 400px;
+    height: 400px;
+    background-position: -1235px -5px;
+}
+
+.aiko-aiko_b05 {
+    width: 400px;
+    height: 400px;
+    background-position: -1645px -5px;
+}
+
+.aiko-aiko_b06 {
+    width: 400px;
+    height: 400px;
+    background-position: -2055px -5px;
+}

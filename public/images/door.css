@@ -1,0 +1,53 @@
+. {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.-rl_auf01 {
+    width: 1024px;
+    height: 768px;
+    background-position: 0 0;
+}
+
+.-rl_auf02 {
+    width: 1024px;
+    height: 768px;
+    background-position: -1024px 0;
+}
+
+.-rl_auf03 {
+    width: 1024px;
+    height: 768px;
+    background-position: -2048px 0;
+}
+
+.-rl_auf04 {
+    width: 1024px;
+    height: 768px;
+    background-position: -3072px 0;
+}
+
+.-rl_zu01 {
+    width: 1024px;
+    height: 768px;
+    background-position: -4096px 0;
+}
+
+.-rl_zu02 {
+    width: 1024px;
+    height: 768px;
+    background-position: -5120px 0;
+}
+
+.-rl_zu03 {
+    width: 1024px;
+    height: 768px;
+    background-position: -6144px 0;
+}
+
+.-rl_zu04 {
+    width: 1024px;
+    height: 768px;
+    background-position: -7168px 0;
+}

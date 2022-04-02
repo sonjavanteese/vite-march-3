@@ -1,0 +1,21 @@
+{
+  "name": "vite-march-2",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^1.0.0-next.30",
+	"@windicss/plugin-animations": "^1.0.9",
+    "svelte": "^3.44.0",
+	"gl-vec2": "latest",
+    "tinro": "^0.6.12",
+    "vite": "^2.8.0",
+    "vite-plugin-windicss": "^1.8.3",
+    "windicss": "^3.5.1"
+  }
+}

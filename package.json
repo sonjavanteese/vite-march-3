@@ -1,0 +1,42 @@
+{
+  "name": "vite-march-2",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^1.0.0-next.30",
+    "@windicss/plugin-animations": "^1.0.9",
+    "gl-vec2": "latest",
+    "svelte": "^3.44.0",
+    "tinro": "^0.6.12",
+    "vite": "^2.8.0",
+    "vite-plugin-windicss": "^1.8.3",
+    "windicss": "^3.5.1"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^1.31.2",
+    "phaser": "^3.55.2",
+    "svelte-canvas": "^0.7.1",
+    "svelte-fragment": "^1.0.1",
+    "svelte-phaser": "latest",
+    "svelte-spa-router": "^3.2.0"
+  },
+  "description": "Reactive canvas rendering with Svelte.",
+  "main": "vite.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonjavanteese/vite-march-3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonjavanteese/vite-march-3/issues"
+  },
+  "homepage": "https://github.com/sonjavanteese/vite-march-3#readme"
+}
