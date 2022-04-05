@@ -1,0 +1,604 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Don Quixote",
+      "author": "Miguel De Cervantes",
+      "description": "The story of the gentle knight and his servant Sancho Panza has entranced readers for centuries"
+    },
+    {
+      "id": 2,
+      "title": "Pilgrim's Progress",
+      "author": "John Bunyan",
+      "description": "The one with the Slough of Despond and Vanity Fair"
+    },
+    {
+      "id": 3,
+      "title": "Robinson Crusoe",
+      "author": "Daniel Defoe",
+      "description": "The first English novel"
+    },
+    {
+      "id": 4,
+      "title": "Gulliver's Travels",
+      "author": "Jonathan Swift",
+      "description": "A wonderful satire that still works for all ages, despite the savagery of Swift's vision"
+    },
+    {
+      "id": 5,
+      "title": "Tom Jones",
+      "author": "Henry Fielding",
+      "description": "The adventures of a high-spirited orphan boy: an unbeatable plot and a lot of sex ending in a blissful marriage"
+    },
+    {
+      "id": 6,
+      "title": "Clarissa",
+      "author": "Samuel Richardson",
+      "description": "One of the longest novels in the English language, but unputdownable"
+    },
+    {
+      "id": 7,
+      "title": "Tristram Shandy",
+      "author": "Laurence Sterne",
+      "description": "One of the first bestsellers, dismissed by Dr Johnson as too fashionable for its own good"
+    },
+    {
+      "id": 8,
+      "title": "Dangerous Liaisons",
+      "author": "Pierre Choderlos De Laclos",
+      "description": "An epistolary novel and a handbook for seducers: foppish, French, and ferocious"
+    },
+    {
+      "id": 9,
+      "title": "Emma",
+      "author": "Jane Austen",
+      "description": "Near impossible choice between this and Pride and Prejudice. But Emma never fails to fascinate and annoy"
+    },
+    {
+      "id": 10,
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "description": "Inspired by spending too much time with Shelley and Byron"
+    },
+    {
+      "id": 11,
+      "title": "Nightmare Abbey",
+      "author": "Thomas Love Peacock",
+      "description": "A classic miniature: a brilliant satire on the Romanticnovel"
+    },
+    {
+      "id": 12,
+      "title": "The Black Sheep",
+      "author": "Honoré De Balzac",
+      "description": "Two rivals fight for the love of a femme fatale. Wrongly overlooked"
+    },
+    {
+      "id": 13,
+      "title": "The Charterhouse of Parma",
+      "author": "Stendhal",
+      "description": "Penetrating and compelling chronicle of life in an Italian court in post-Napoleonic France"
+    },
+    {
+      "id": 14,
+      "title": "The Count of Monte Cristo",
+      "author": "Alexandre Dumas",
+      "description": "A revenge thriller also set in France after Bonaparte: a masterpiece of adventure writing"
+    },
+    {
+      "id": 15,
+      "title": "Sybil",
+      "author": "Benjamin Disraeli",
+      "description": "Apart from Churchill, no other British political figure shows literary genius"
+    },
+    {
+      "id": 16,
+      "title": "David Copperfield",
+      "author": "Charles Dickens",
+      "description": "This highly autobiographical novel is the one its author liked best"
+    },
+    {
+      "id": 17,
+      "title": "Wuthering Heights",
+      "author": "Emily Brontë",
+      "description": "Catherine Earnshaw and Heathcliff have passed into the language. Impossible to ignore"
+    },
+    {
+      "id": 18,
+      "title": "Jane Eyre",
+      "author": "Charlotte Brontë",
+      "description": "Obsessive emotional grip and haunting narrative"
+    },
+    {
+      "id": 19,
+      "title": "Vanity Fair",
+      "author": "William Makepeace Thackeray",
+      "description": "The improving tale of Becky Sharp"
+    },
+    {
+      "id": 20,
+      "title": "The Scarlet Letter",
+      "author": "Nathaniel Hawthorne",
+      "description": "A classic investigation of the American mind"
+    },
+    {
+      "id": 21,
+      "title": "Moby-Dick",
+      "author": "Herman Melville",
+      "description": "'Call me Ishmael' is one of the most famous opening sentences of any novel"
+    },
+    {
+      "id": 22,
+      "title": "Madame Bovary",
+      "author": "Gustave Flaubert",
+      "description": "You could summarise this as a story of adultery in provincial France, and miss the point entirely"
+    },
+    {
+      "id": 23,
+      "title": "The Woman in White",
+      "author": "Wilkie Collins",
+      "description": "Gripping mystery novel of concealed identity, abduction, fraud and mental cruelty"
+    },
+    {
+      "id": 24,
+      "title": "Alice's Adventures In Wonderland",
+      "author": "Lewis Carroll",
+      "description": "A story written for the nine-year-old daughter of an Oxford don that still baffles most kids"
+    },
+    {
+      "id": 25,
+      "title": "Little Women",
+      "author": "Louisa M. Alcott",
+      "description": "Victorian bestseller about a New England family of girls"
+    },
+    {
+      "id": 26,
+      "title": "The Way We Live Now",
+      "author": "Anthony Trollope",
+      "description": "A majestic assault on the corruption of late Victorian England"
+    },
+    {
+      "id": 27,
+      "title": "Anna Karenina",
+      "author": "Leo Tolstoy",
+      "description": "The supreme novel of the married woman's passion for a younger man"
+    },
+    {
+      "id": 28,
+      "title": "Daniel Deronda",
+      "author": "George Eliot",
+      "description": "A passion and an exotic grandeur that is strange and unsettling"
+    },
+    {
+      "id": 29,
+      "title": "The Brothers Karamazov",
+      "author": "Fyodor Dostoevsky",
+      "description": "Mystical tragedy by the author of Crime and Punishment"
+    },
+    {
+      "id": 30,
+      "title": "The Portrait of a Lady",
+      "author": "Henry James",
+      "description": "The story of Isabel Archer shows James at his witty and polished best"
+    },
+    {
+      "id": 31,
+      "title": "Huckleberry Finn",
+      "author": "Mark Twain",
+      "description": "Twain was a humorist, but this picture of Mississippi life is profoundly moral and still incredibly influential"
+    },
+    {
+      "id": 32,
+      "title": "The Strange Case of Dr Jekyll and Mr Hyde",
+      "author": "Robert Louis Stevenson",
+      "description": "A brilliantly suggestive, resonant study of human duality by a natural storyteller"
+    },
+    {
+      "id": 33,
+      "title": "Three Men in a Boat",
+      "author": "Jerome K. Jerome",
+      "description": "One of the funniest English books ever written"
+    },
+    {
+      "id": 34,
+      "title": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "description": "A coded and epigrammatic melodrama inspired by his own tortured homosexuality"
+    },
+    {
+      "id": 35,
+      "title": "The Diary of a Nobody",
+      "author": "George Grossmith",
+      "description": "This classic of Victorian suburbia will always be renowned for the character of Mr Pooter"
+    },
+    {
+      "id": 36,
+      "title": "Jude the Obscure",
+      "author": "Thomas Hardy",
+      "description": "Its savage bleakness makes it one of the first twentieth-century novels"
+    },
+    {
+      "id": 37,
+      "title": "The Riddle of the Sands",
+      "author": "Erskine Childers",
+      "description": "A prewar invasion-scare spy thriller by a writer later shot for his part in the Irish republican rising"
+    },
+    {
+      "id": 38,
+      "title": "The Call of the Wild",
+      "author": "Jack London",
+      "description": "The story of a dog who joins a pack of wolves after his master's death"
+    },
+    {
+      "id": 39,
+      "title": "Nostromo",
+      "author": "Joseph Conrad",
+      "description": "Conrad's masterpiece: a tale of money, love and revolutionary politics"
+    },
+    {
+      "id": 40,
+      "title": "The Wind in the Willows",
+      "author": "Kenneth Grahame",
+      "description": "This children's classic was inspired by bedtime stories for Grahame's son"
+    },
+    {
+      "id": 41,
+      "title": "In Search of Lost Time",
+      "author": "Marcel Proust",
+      "description": "An unforgettable portrait of Paris in the belle époque. Probably the longest novel on this list"
+    },
+    {
+      "id": 42,
+      "title": "The Rainbow",
+      "author": "D. H. Lawrence",
+      "description": "Novels seized by the police, like this one, have a special afterlife"
+    },
+    {
+      "id": 43,
+      "title": "The Good Soldier",
+      "author": "Ford Madox Ford",
+      "description": "This account of the adulterous lives of two Edwardian couples is a classic of unreliable narration"
+    },
+    {
+      "id": 44,
+      "title": "The Thirty-Nine Steps",
+      "author": "John Buchan",
+      "description": "A classic adventure story for boys, jammed with action, violence and suspense"
+    },
+    {
+      "id": 45,
+      "title": "Ulysses",
+      "author": "James Joyce",
+      "description": "Also pursued by the British police, this is a novel more discussed than read"
+    },
+    {
+      "id": 46,
+      "title": "Mrs Dalloway",
+      "author": "Virginia Woolf",
+      "description": "Secures Woolf's position as one of the great twentieth-century English novelists"
+    },
+    {
+      "id": 47,
+      "title": "A Passage to India",
+      "author": "EM Forster",
+      "description": "Forster's great love song to India"
+    },
+    {
+      "id": 48,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "description": "The quintessential Jazz Age novel"
+    },
+    {
+      "id": 49,
+      "title": "The Trial",
+      "author": "Franz Kafka",
+      "description": "The enigmatic story of Joseph K"
+    },
+    {
+      "id": 50,
+      "title": "Men Without Women",
+      "author": "Ernest Hemingway",
+      "description": "He is remembered for his novels, but it was the short stories that first attracted notice"
+    },
+    {
+      "id": 51,
+      "title": "Journey to the End of the Night",
+      "author": "Louis-Ferdinand Celine",
+      "description": "The experiences of an unattractive slum doctor during the Great War: a masterpiece of linguistic innovation"
+    },
+    {
+      "id": 52,
+      "title": "As I Lay Dying",
+      "author": "William Faulkner",
+      "description": "A strange black comedy by an American master"
+    },
+    {
+      "id": 53,
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "description": "Dystopian fantasy about the world of the seventh century AF (after Ford)"
+    },
+    {
+      "id": 54,
+      "title": "Scoop",
+      "author": "Evelyn Waugh",
+      "description": "The supreme Fleet Street novel"
+    },
+    {
+      "id": 55,
+      "title": "USA",
+      "author": "John Dos Passos",
+      "description": "An extraordinary trilogy that uses a variety of narrative devices to express the story of America."
+    },
+    {
+      "id": 56,
+      "title": "The Big Sleep",
+      "author": "Raymond Chandler",
+      "description": "Introducing Philip Marlowe: cool, sharp, handsome - and bitterly alone"
+    },
+    {
+      "id": 57,
+      "title": "The Pursuit Of Love",
+      "author": "Nancy Mitford",
+      "description": "An exquisite comedy of manners with countless fans"
+    },
+    {
+      "id": 58,
+      "title": "The Plague",
+      "author": "Albert Camus",
+      "description": "A mysterious plague sweeps through the Algerian town of Oran"
+    },
+    {
+      "id": 59,
+      "title": "Nineteen Eighty-Four",
+      "author": "George Orwell",
+      "description": "This tale of one man's struggle against totalitarianism has been appropriated the world over"
+    },
+    {
+      "id": 60,
+      "title": "Malone Dies",
+      "author": "Samuel Beckett",
+      "description": "Part of a trilogy of astonishing monologues in the black comic voice of the author of Waiting for Godot"
+    },
+    {
+      "id": 61,
+      "title": "Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "description": "A week in the life of Holden Caulfield. A cult novel that still mesmerises"
+    },
+    {
+      "id": 62,
+      "title": "Wise Blood",
+      "author": "Flannery O'Connor",
+      "description": "A disturbing novel of religious extremism set in the Deep South"
+    },
+    {
+      "id": 63,
+      "title": "Charlotte's Web",
+      "author": "EB White",
+      "description": "How Wilbur the pig was saved by the literary genius of a friendly spider"
+    },
+    {
+      "id": 64,
+      "title": "The Lord Of The Rings",
+      "author": "J. R. R. Tolkien",
+      "description": "Enough said!"
+    },
+    {
+      "id": 65,
+      "title": "Lucky Jim",
+      "author": "Kingsley Amis",
+      "description": "An astonishing debut: the painfully funny English novel of the Fifties"
+    },
+    {
+      "id": 66,
+      "title": "Lord of the Flies",
+      "author": "William Golding",
+      "description": "Schoolboys become savages: a bleak vision of human nature"
+    },
+    {
+      "id": 67,
+      "title": "The Quiet American",
+      "author": "Graham Greene",
+      "description": "Prophetic novel set in 1950s Vietnam"
+    },
+    {
+      "id": 68,
+      "title": "On the Road",
+      "author": "Jack Kerouac",
+      "description": "The Beat Generation bible"
+    },
+    {
+      "id": 69,
+      "title": "Lolita",
+      "author": "Vladimir Nabokov",
+      "description": "Humbert Humbert's obsession with Lolita is a tour de force of style and narrative"
+    },
+    {
+      "id": 70,
+      "title": "The Tin Drum",
+      "author": "Günter Grass",
+      "description": "Hugely influential, Rabelaisian novel of Hitler's Germany"
+    },
+    {
+      "id": 71,
+      "title": "Things Fall Apart",
+      "author": "Chinua Achebe",
+      "description": "Nigeria at the beginning of colonialism. A classic of African literature"
+    },
+    {
+      "id": 72,
+      "title": "The Prime of Miss Jean Brodie",
+      "author": "Muriel Spark",
+      "description": "A writer who made her debut in The Observer - and her prose is like cut glass"
+    },
+    {
+      "id": 73,
+      "title": "To Kill A Mockingbird",
+      "author": "Harper Lee",
+      "description": "Scout, a six-year-old girl, narrates an enthralling story of racial prejudice in the Deep South"
+    },
+    {
+      "id": 74,
+      "title": "Catch-22",
+      "author": "Joseph Heller",
+      "description": "He would be crazy to fly more missions and sane if he didn't, but if he was sane he had to fly them"
+    },
+    {
+      "id": 75,
+      "title": "Herzog",
+      "author": "Saul Bellow",
+      "description": "Adultery and nervous breakdown in Chicago"
+    },
+    {
+      "id": 76,
+      "title": "One Hundred Years of Solitude",
+      "author": "Gabriel García Márquez",
+      "description": "A postmodern masterpiece"
+    },
+    {
+      "id": 77,
+      "title": "Mrs Palfrey at the Claremont",
+      "author": "Elizabeth Taylor",
+      "description": "A haunting, understated study of old age"
+    },
+    {
+      "id": 78,
+      "title": "Tinker Tailor Soldier Spy",
+      "author": "John Le Carré",
+      "description": "A thrilling elegy for post-imperial Britain"
+    },
+    {
+      "id": 79,
+      "title": "Song of Solomon",
+      "author": "Toni Morrison",
+      "description": "The definitive novelist of the African-American experience"
+    },
+    {
+      "id": 80,
+      "title": "The Bottle Factory Outing",
+      "author": "Beryl Bainbridge",
+      "description": "Macabre comedy of provincial life"
+    },
+    {
+      "id": 81,
+      "title": "The Executioner's Song",
+      "author": "Norman Mailer",
+      "description": "This quasi-documentary account of the life and death of Gary Gilmore is possibly his masterpiece"
+    },
+    {
+      "id": 82,
+      "title": "If on a Winter's Night a Traveller",
+      "author": "Italo Calvino",
+      "description": "A strange, compelling story about the pleasures of reading"
+    },
+    {
+      "id": 83,
+      "title": "A Bend in the River",
+      "author": "VS Naipaul",
+      "description": "The finest living writer of English prose. This is his masterpiece: edgily reminiscent of Heart of Darkness"
+    },
+    {
+      "id": 84,
+      "title": "Waiting for the Barbarians",
+      "author": "JM Coetzee",
+      "description": "Bleak but haunting allegory of apartheid by the Nobel prizewinner"
+    },
+    {
+      "id": 85,
+      "title": "Housekeeping",
+      "author": "Marilynne Robinson",
+      "description": "Haunting, poetic story, drowned in water and light, about three generations of women"
+    },
+    {
+      "id": 86,
+      "title": "Lanark",
+      "author": "Alasdair Gray",
+      "description": "Seething vision of Glasgow. A Scottish classic"
+    },
+    {
+      "id": 87,
+      "title": "The New York Trilogy",
+      "author": "Paul Auster",
+      "description": "Dazzling metaphysical thriller set in the Manhattan of the 1970s"
+    },
+    {
+      "id": 88,
+      "title": "The BFG",
+      "author": "Roald Dahl",
+      "description": "A bestseller by the most popular postwar writer for children of all ages"
+    },
+    {
+      "id": 89,
+      "title": "The Periodic Table",
+      "author": "Primo Levi",
+      "description": "A prose poem about the delights of chemistry"
+    },
+    {
+      "id": 90,
+      "title": "Money",
+      "author": "Martin Amis",
+      "description": "The novel that bags Amis's place on any list"
+    },
+    {
+      "id": 91,
+      "title": "An Artist of the Floating World",
+      "author": "Kazuo Ishiguro",
+      "description": "A collaborator from prewar Japan reluctantly discloses his betrayal of friends and family"
+    },
+    {
+      "id": 92,
+      "title": "Oscar And Lucinda",
+      "author": "Peter Carey",
+      "description": "A great contemporary love story set in nineteenth-century Australia by double Booker prizewinner"
+    },
+    {
+      "id": 93,
+      "title": "The Book of Laughter and Forgetting",
+      "author": "Milan Kundera",
+      "description": "Inspired by the Soviet invasion of Czechoslovakia in 1968, this is a magical fusion of history, autobiography and ideas"
+    },
+    {
+      "id": 94,
+      "title": "Haroun and the Sea of Stories",
+      "author": "Salman Rushdie",
+      "description": "In this entrancing story Rushdie plays with the idea of narrative itself"
+    },
+    {
+      "id": 95,
+      "title": "LA Confidential",
+      "author": "James Ellroy",
+      "description": "Three LAPD detectives are brought face to face with the secrets of their corrupt and violent careers"
+    },
+    {
+      "id": 96,
+      "title": "Wise Children",
+      "author": "Angela Carter",
+      "description": "A theatrical extravaganza by a brilliant exponent of magic realism"
+    },
+    {
+      "id": 97,
+      "title": "Atonement",
+      "author": "Ian McEwan",
+      "description": "Acclaimed short-story writer achieves a contemporary classic of mesmerising narrative conviction"
+    },
+    {
+      "id": 98,
+      "title": "Northern Lights",
+      "author": "Philip Pullman",
+      "description": "Lyra's quest weaves fantasy, horror and the play of ideas into a truly great contemporary children's book"
+    },
+    {
+      "id": 99,
+      "title": "American Pastoral",
+      "author": "Philip Roth",
+      "description": "For years, Roth was famous for Portnoy's Complaint . Recently, he has enjoyed an extraordinary revival"
+    },
+    {
+      "id": 100,
+      "title": "Austerlitz",
+      "author": "W. G. Sebald",
+      "description": "Posthumously published volume in a sequence of dream-like fictions spun from memory, photographs and the German past"
+    }
+  ]
+}

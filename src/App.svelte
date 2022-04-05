@@ -5,6 +5,7 @@
   import Part2 from './routes2/Part2.svelte';
   import Start from './routes2/Start.svelte';
   import Screen1 from "./routes/Screen1.svelte";
+  import Screen3 from "./routes/Screen3.svelte";
   import { artboardH, artboardW, _screenH, _screenW } from './lib/stores';
   import { onMount, tick } from "svelte";
 
@@ -44,9 +45,9 @@
   bind:clientWidth={width} 
   bind:clientHeight={height} 
   class="flex-1 w-full">
-  <Router routes={{'/': Start,'/g1': Screen1,'/g2': Part2,'*': NotFound}} />
+  <Router routes={{'/': Start,'/g1': Screen1,'/g2': Part2, '/g3': Screen3,'*': NotFound}} />
 </main>
-<!-- <section class="border border-red-800 border-dotted" id="canvas" bind:clientWidth={width}></section> -->
+
 
 
 
